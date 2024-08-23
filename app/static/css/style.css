@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0a0a0a;
+    color: #00ff00;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #1a1a1a;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,255,0,0.1);
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+main {
+    padding: 2rem;
+}
+
+h1 {
+    color: #00ff00;
+}
+
+p {
+    color: #00cc00;
+}
